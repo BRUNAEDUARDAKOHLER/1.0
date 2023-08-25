@@ -10,7 +10,7 @@
 body {
     background-color: ForestGreen(--cor-de-fundo);
     color: var(--branco-principal);
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 16px;
     font-weight: 400;
 }
